@@ -4,26 +4,26 @@ EmployeeDB schema
 
 Departments
 -
-dept_no varchar pk
+dept_no varchar PK
 dept_name varchar
 
 Dept_Employees
 -
-emp_no int pk FK >- Employees.emp_no
+emp_no int PK FK >- Employees.emp_no
 dept_no varchar FK >- Departments.dept_no
 from_date date
 to_date date
 
 Dept_Manager
 - 
-dept_no varchar FK >- Departments.dept_no
-emp_no int pk FK >- Employees.emp_no
+dept_no varchar PK FK >- Departments.dept_no
+emp_no int PK FK >- Employees.emp_no
 from_date date
 to_date date
 
 Employees
 -
-emp_no int pk 
+emp_no int PK 
 birth_date date
 first_name varchar
 last_name varchar
@@ -32,14 +32,14 @@ hire_date date
 
 Salaries
 -
-emp_no int pk FK >- Employees.emp_no
+emp_no int PK FK >- Employees.emp_no
 salary int
 from_date date
 to_date date
 
 Titles
 - 
-emp_no int pk FK >- Employees.emp_no
+emp_no int PK FK >- Employees.emp_no
 title varchar
 from_date date
 to_date date
