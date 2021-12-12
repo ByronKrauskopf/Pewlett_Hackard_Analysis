@@ -29,7 +29,7 @@ There are a total of 90,398 roles that will need to be filled as retirements occ
 
 ![Total Retiring](./Data/total_retiring.png)
 
-Based on the current criteria for the mentorship program, birth dates between Jan 1 and Dec 31 1965, there are 1,549 employees eligible to participate. When breaking down the eligible candidates by current job title it is clear that there will be more than enough retiring employees act as mentors. 
+Based on the current criteria for the mentorship program, birth dates between Jan 1 and Dec 31 1965, there are 1,549 employees eligible to participate. When breaking down the eligible candidates by current job title it is clear that there will be more than enough retiring employees to act as mentors for each job title. 
 
 ![Mentorship by Title](./Data/mentorship_titles.png)
 
