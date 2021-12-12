@@ -62,3 +62,22 @@ ORDER BY emp_no
 --check new table
 SELECT * 
 FROM mentorship_eligibility
+
+-- create count of total retiring 
+SELECT SUM (count) as "Total Retiring"
+FROM retiring_titles
+
+-- create count of total mentorship eligibility
+SELECT COUNT (last_name) as "Total Mentorship Eligibility"
+FROM mentorship_eligibility
+
+--Create table of count for mentorship eligibility by title
+SELECT COUNT(me.emp_no), me.title
+INTO mentorship_titles
+FROM mentorship_eligibility as me
+GROUP BY title
+ORDER BY Count(title) DESC;
+
+--check new table
+SELECT * 
+FROM mentorship_titles
