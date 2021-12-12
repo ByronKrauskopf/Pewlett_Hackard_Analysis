@@ -19,7 +19,7 @@ The below chart contains an excerpt of the provided list of employees eligible f
 ![Mentorship Eligibility](./Data/mentorship_eligibility.png)
 
 - A total of 90,398 employees are anticipated to retire in the near future.
-- The largest job title group retiring is Senior Engineer with 29,414 (32.54%), followed closly by Senior Staff with 28,254 (31.26%). 
+- The largest job title group retiring is Senior Engineer with 29,414 (32.54%), followed closely by Senior Staff with 28,254 (31.26%). 
 - By job role, Engineer is the largest group retiring with 45,397 (50.22%), followed by Staff with 40,497 (44.80%).
 - There are a total of 1,549 employees eligible for the Mentorship Program under the current criteria.
 
@@ -33,6 +33,6 @@ Based on the current criteria for the mentorship program, birth dates between Ja
 
 ![Mentorship by Title](./Data/mentorship_titles.png)
 
-![Total Mentorship](./Data/total_mentorship.png)
+![Total Mentorship](./Data/total_mentorship_eligibility.png)
 
-The problem that Pewlett Hackard will face is that the mentorship program will only potentially fill 1.71% of the retiring postions. This means that the comapny will still need to engage in an agressive hiring program for mid and senior level staff inthe near future to ensure that there are no business impacts from the upcoming retirements.
+The problem that Pewlett Hackard will face is that the mentorship program will only potentially fill 1.71% of the retiring positions. This means that the company will still need to engage in an aggressive hiring program for mid and senior level staff in the near future to ensure that there are no business impacts from the upcoming retirements.
