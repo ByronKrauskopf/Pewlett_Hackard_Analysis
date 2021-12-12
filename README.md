@@ -24,3 +24,9 @@ The below chart contains an excerpt of the provided list of employees eligible f
 - There are a total of 1,549 employees eligible for the Mentorship Program under the current criteria.
 
 ## Summary
+
+There are a total of 90,398 roles that will need to be filled as retirements occur. The majority of these are Senior titles, and the largest role being impacted is Engineering.
+
+![Total Retiring](./Data/total_retiring.png)
+
+
